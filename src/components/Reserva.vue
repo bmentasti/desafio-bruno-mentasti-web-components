@@ -104,6 +104,7 @@
         console.log("La reserva fue confirmada")
       },
       time(item) {
+
         console.log(item.hours)
       },
     },
