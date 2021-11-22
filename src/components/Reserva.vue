@@ -97,7 +97,6 @@
         { src: 'https://i.pinimg.com/originals/f3/aa/17/f3aa1721967b616936dd9425c1aafea1.jpg'}
       ],
     }),
-
     methods: {
       reserve() {
         this.loading = true
